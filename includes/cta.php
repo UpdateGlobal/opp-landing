@@ -14,7 +14,7 @@
                 </div>
                 <!--Btn Column-->
                 <div class="btn-column col-md-3 col-sm-12 col-xs-12">
-                	<a href="contact.html" class="theme-btn btn-style-four">CONTÁCTANOS</a>
+                	<a href="#!" class="theme-btn btn-style-four">CONTÁCTANOS</a>
                 </div>
             </div>
         </div>

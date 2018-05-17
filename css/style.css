@@ -3292,7 +3292,7 @@ img{
 .main-footer .footer-bottom{
 	position:relative;
 	padding:20px 50px;
-	background-color:#272727;
+	background-color:#000;
 }
 
 .main-footer .footer-bottom.style-two{
@@ -7216,4 +7216,38 @@ img{
 	display: inline-block;
 	color:#7bca33;
 	font-family: 'FontAwesome';
+}
+
+.social {
+    display: inline-block;
+    vertical-align: top;
+    height: 37px;
+    width: 37px;
+    line-height: 33px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 18px;
+    color: #2cb8c7;
+    float: center;
+    margin-top: 4px;
+    background-color: black;
+}
+
+.social:hover {
+    display: inline-block;
+    vertical-align: top;
+    height: 37px;
+    width: 37px;
+    line-height: 33px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 18px;
+    color: #2cb8c7;
+    float: center;
+    margin-top: 4px;
+    background-color: black;
 }

@@ -1,3 +1,25 @@
+<script>
+/* animate smooth scrolling sections */
+$("nav ul li a[href^='#']").on('click', function(e) {
+
+   // prevent default anchor click behavior
+   e.preventDefault();
+
+   // store hash
+   var hash = this.hash;
+
+   // animate
+   $('html, body').animate({
+       scrollTop: $(hash).offset().top
+     }, 700, function(){
+
+       // when done, add hash to url
+       // (default click behaviour)
+       window.location.hash = hash;
+     });
+
+});
+</script>
 
 <!--Scroll to top-->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-double-up"></span></div>
@@ -31,3 +53,5 @@
 <!--End Google Map APi-->
 <!--Color Switcher-->
 <script src="js/color-settings.js"></script>
+
+
