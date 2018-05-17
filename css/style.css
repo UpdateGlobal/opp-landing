@@ -2977,6 +2977,7 @@ img{
 
 .contact-section .form-column{
 	position:relative;
+	margin-top: -73px;
 }
 
 .contact-section .form-column .inner-column{
@@ -2990,7 +2991,7 @@ img{
 	font-size:28px;
 	font-weight:600;
 	line-height:1.4em;
-	margin-bottom:35px;
+	margin-bottom: 0px;
 }
 
 /*Default Form*/
@@ -4463,7 +4464,7 @@ img{
 	color:#666666;
 	font-size:16px;
 	line-height:1.8em;
-	padding-right:100px;
+	padding-right: 70px;
 	margin-bottom:35px;
 }
 
@@ -4707,7 +4708,7 @@ img{
 .gallery-section-three{
 	position:relative;
 	padding:115px 0px 90px;
-	background-color: #f2fff6;
+	background-color: #f5f5f5;
 }
 
 .gallery-section-three .outer-container{
@@ -5119,10 +5120,10 @@ img{
 	position:relative;
 	max-width:400px;
 	width:100%;
-	float:right;
+	float:left;
 	display:inline-block;
 	padding:50px 55px 30px;
-	background-color:#ffffff;
+	background-color: #ffffffcc;
 }
 
 .map-section .location-detail .inner-box h2{

@@ -37,7 +37,7 @@
                                 </ul>
                                 <div class="price" style="text-align: center" >desde S/54,210.00</div>
                                 <div class="btns-box" style="text-align: center;">
-                                    <a href="agents-single.html" class="theme-btn btn-style-one">Contacto</a>
+                                    <a href="#contacto" class="theme-btn btn-style-one">Contacto</a>
                                 </div>
                             </div>
                         </div>

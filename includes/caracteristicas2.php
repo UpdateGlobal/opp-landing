@@ -6,10 +6,22 @@
                 <!--Title Column-->
                 <div class="title-column col-md-6 col-sm-12 col-xs-12">
                 	<div class="inner-column">
-                    	<h2>About Luxurious Home</h2>
-                        <div class="text">Suspendisse eleifend, metus vel faucibus accumsan, neque lacus tincidunt lacus, non volutpat est velit ut lorem. Nullam lorem mauris, commodo eu purus ac, blandit hendrerit neque. Praesent non ligula iaculis nulla posuere ultricies.</div>
-                        <a href="index-2.html#" class="theme-btn btn-style-two">Learn More</a>
+                    	<h2>LO QUE NECESITAS SABER</h2>
+                        <div class="text" style="text-align: justify;">Suspendisse eleifend, metus vel faucibus accumsan, neque lacus tincidunt lacus, non volutpat est velit ut lorem. Nullam lorem mauris, commodo eu purus ac, blandit hendrerit neque. Praesent non ligula iaculis nulla posuere ultricies.</div>
+                       <!--  <a href="index-2.html#" class="theme-btn btn-style-two">Learn More</a> -->
                     </div>
+                         <div class="row clearfix">
+                             <ul class="list-style-three col-md-6 col-sm-6 col-xs-12">
+                                <li>A 2 cuadras de Av. Pardo</li>
+                                <li>Restaurantes Cercanos</li>
+                                
+                              </ul>
+                                 <ul class="list-style-three col-md-6 col-sm-6 col-xs-12">
+                                <li>Cerca Óvalo Bolognesi</li>
+                                <li>En el corazón de Miraflores</li>
+                              
+                              </ul>              
+                         </div>
                 </div>
                 
                 <!--Property Column-->
@@ -72,7 +84,11 @@
                             </div>
                             
                         </div>
+
                     </div>
+
+
+
                 </div>
                 
             </div>

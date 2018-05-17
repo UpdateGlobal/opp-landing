@@ -17,7 +17,7 @@
                                 <li class="filter" data-role="button" data-filter=".garage">Garage</li>
                                 <li class="filter" data-role="button" data-filter=".basement">Basement</li>
                             </ul>
-                            <a href="index-2.html#" class="theme-btn view-more btn-style-two">View More</a>
+                           <!--  <a href="index-2.html#" class="theme-btn view-more btn-style-two">View More</a> -->
                         </div>
                     </div>
                 	

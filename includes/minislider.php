@@ -13,8 +13,8 @@
                             </div>
                             <div class="content">
                             	<div class="content-inner">
-                                	<h3><a href="features.html">Drawingroom</a></h3>
-                                    <div class="square">640 <span>Sq-ft</span></div>
+                                	<h3><a href="features.html">Diseño</a></h3>
+                                    <div class="square"><span>VANGUARDISTA</span></div>
                                     <!-- <a href="features.html" class="details">Details</a> -->
                                 </div>
                             </div>
@@ -32,8 +32,8 @@
                             </div>
                             <div class="content">
                             	<div class="content-inner">
-                                	<h3><a href="features.html">Drawingroom</a></h3>
-                                    <div class="square">640 <span>Sq-ft</span></div>
+                                	<h3><a href="features.html">Finos </a></h3>
+                                    <div class="square"><span>ACABADOS</span></div>
                                     <!-- <a href="features.html" class="details">Details</a> -->
                                 </div>
                             </div>
@@ -51,8 +51,8 @@
                             </div>
                             <div class="content">
                             	<div class="content-inner">
-                                	<h3><a href="features.html">Drawingroom</a></h3>
-                                    <div class="square">640 <span>Sq-ft</span></div>
+                                	<h3><a href="features.html">Áreas</a></h3>
+                                    <div class="square"><span>COMUNES</span></div>
                                     <!-- <a href="features.html" class="details">Details</a> -->
                                 </div>
                             </div>

@@ -5,7 +5,7 @@
             	<!--Logo Column-->
                 <div class="logo-column col-md-3 col-sm-12 col-xs-12">
                 	<div class="logo">
-                    	<img src="images/icons/logo.png" alt="" />
+                    	<img src="images/pedraza-white.png" alt="" />
                     </div>
                 </div>
                 <!--Text Column-->
@@ -14,7 +14,7 @@
                 </div>
                 <!--Btn Column-->
                 <div class="btn-column col-md-3 col-sm-12 col-xs-12">
-                	<a href="contact.html" class="theme-btn btn-style-four">Contact Us</a>
+                	<a href="contact.html" class="theme-btn btn-style-four">CONTÁCTANOS</a>
                 </div>
             </div>
         </div>
