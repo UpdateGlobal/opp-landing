@@ -3130,7 +3130,7 @@ img{
 
 .main-footer .widgets-section{
 	position:relative;
-	padding:110px 0px 80px;
+	padding: 60px 0px 0px;
 }
 
 .main-footer .footer-widget{
@@ -3244,7 +3244,7 @@ img{
 .main-footer .gallery-widget .image-box{
 	position:relative;
 	float:left;
-	width:33.333%;
+	width: 50%;
 	padding:0px 5px;
 	margin-bottom:10px;
 }
@@ -5545,6 +5545,7 @@ img{
 .gallery-page-section{
 	position:relative;
 	padding:110px 0px 120px;
+	background-color: whitesmoke;
 }
 
 .gallery-page-section .filters{

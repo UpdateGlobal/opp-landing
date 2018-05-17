@@ -58,10 +58,11 @@
     
 <?php include ('includes/caracteristicas.php'); ?>
 <?php include ('includes/section-video.php'); ?>
-<?php include ('includes/gallery.php'); ?>
-<?php include ('includes/cta.php'); ?>
+<?php include ('includes/gallery2.php'); ?>
+
 <?php include ('includes/contacto.php'); ?>
 <?php include ('includes/map.php'); ?>
+<?php include ('includes/cta.php'); ?>
 <?php include ('includes/footer.php'); ?>
 
 </div>
