@@ -1,30 +1,6 @@
 <!--Map Section-->
-    <section class="map-section">
-    	<!--Map Canvas-->
-        <div class="map-canvas"
-                data-zoom="18"
-                data-lat="-12.1220313"
-                data-lng="-77.0356822"
-                data-type="roadmap"
-                data-hue="#ffc400"
-                data-title="Envato"
-                data-icon-path="images/icons/map-marker.png"
-                data-content="Av. Grau 355 Miraflores<br><a href='mailto:octaviopedraza@yoctaviopedraza.com'>octaviopedraza@yoctaviopedraza.com/a>">
-            </div>
-            
-        <div class="auto-container clearfix">
-        	<div class="location-detail">
-            	<div class="inner-box">
-                	<h2>Visítanos en</h2>
-                    <ul>
-                    	<li><span>Dirección</span>Av. Grau 355 Miraflores</li>
-                        <li><span>Teléfono</span>(51)2751241</li>
-                        <li><span>Email</span>octaviopedraza@yoctaviopedraza.com</li>
-                        <li><span>Atención</span>Lunes - Domingo<br> 09:00 - 18:00</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
+<section>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3081.833926823998!2d-77.0360910029498!3d-12.122330372096743!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c8228b122d49%3A0x7d7d7d0b32d56e5d!2sAv+Grau+355%2C+Lima+15074!5e0!3m2!1ses-419!2spe!4v1526595145446" style="width: 100%; margin-bottom: -7px;" height="700" frameborder="0" style="border:0; margin: 0px;" allowfullscreen></iframe>
+</section>
     <!--End Map Section-->
   

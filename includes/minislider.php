@@ -9,7 +9,7 @@
                     	<div class="image">
                         	<img src="images/resource/featured-1.jpg" alt="" />
                             <div class="icon-box">
-                            	<span class="icon flaticon-tray"></span>
+                            	<i class="fas fa-check"></i>
                             </div>
                             <div class="content">
                             	<div class="content-inner">
@@ -28,7 +28,7 @@
                     	<div class="image">
                         	<img src="images/resource/featured-2.jpg" alt="" />
                             <div class="icon-box">
-                            	<span class="icon flaticon-livingroom-1"></span>
+                            	<i class="fas fa-check"></i>
                             </div>
                             <div class="content">
                             	<div class="content-inner">
@@ -47,7 +47,7 @@
                     	<div class="image">
                         	<img src="images/resource/featured-3.jpg" alt="" />
                             <div class="icon-box">
-                            	<span class="icon flaticon-bed"></span>
+                            	<i class="fas fa-check"></i>
                             </div>
                             <div class="content">
                             	<div class="content-inner">

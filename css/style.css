@@ -1362,7 +1362,7 @@ img{
 .main-header .options-box{
 	position:relative;
 	float:left;
-	margin-top:42px;
+	margin-top:22px;
 	right:0px;
 	margin-left:0px;
 }
@@ -1386,7 +1386,7 @@ img{
 
 .main-header .options-box .options-nav > li{
 	position:relative;
-	color:#ffffff;
+	color:#fff;
 	font-size:22px;
 	margin-left:28px;
 	display:inline-block;
@@ -2116,7 +2116,8 @@ img{
 }
 
 .measurement-section .measurement-tabs{
-	position:relative;
+	position: relative;
+    margin: 0px 10	0px;
 }
 
 .measurement-section .measurement-tabs .tab-btns{
@@ -3153,7 +3154,8 @@ img{
 
 .main-footer .logo-widget .logo{
 	position:relative;
-	margin-bottom:20px;
+	/* margin-bottom:20px; */
+	margin: 20px 0px;
 }
 
 .main-footer .logo-widget .text{
@@ -3243,8 +3245,8 @@ img{
 
 .main-footer .gallery-widget .image-box{
 	position:relative;
-	float:left;
-	width: 50%;
+	/*float:left;*/
+	width: 35%;
 	padding:0px 5px;
 	margin-bottom:10px;
 }
@@ -3270,7 +3272,7 @@ img{
 	-o-transition:all 300ms ease;
 	-moz-transition:all 300ms ease;
 	transition:all 300ms ease;
-	background-color:rgba(123,202,51,0.80);
+	/*background-color:rgba(123,202,51,0.80);*/
 }
 
 .main-footer .gallery-widget .image-box:hover .overlay-box{
@@ -3280,7 +3282,7 @@ img{
 .main-footer .gallery-widget .image-box img{
 	position:relative;
 	display:block;
-	width:100%;
+	width:70%;
 	-webkit-transition:all 300ms ease;
 	-ms-transition:all 300ms ease;
 	-o-transition:all 300ms ease;
@@ -7100,6 +7102,7 @@ img{
 .appointment-form-two .form-group button{
 	padding:11px 32px;
 	margin-top:15px;
+
 }
 
 /*** 
@@ -7229,7 +7232,7 @@ img{
     text-align: center;
     margin-right: 10px;
     font-size: 18px;
-    color: #2cb8c7;
+    color: #7ACA2B;
     float: center;
     margin-top: 4px;
     background-color: black;
@@ -7246,7 +7249,7 @@ img{
     text-align: center;
     margin-right: 10px;
     font-size: 18px;
-    color: #2cb8c7;
+    color: #0191ce;
     float: center;
     margin-top: 4px;
     background-color: black;

@@ -15,12 +15,11 @@
                 
                     <!--Tab Btns-->
                     <ul class="tab-btns tab-buttons clearfix">
-                        <li data-tab="#drawing" class="tab-btn"><span class="icon flaticon-livingroom-1"></span> Amplios Dormitorios</li>
-                        <li data-tab="#kitchen" class="tab-btn"><span class="icon flaticon-restaurant"></span> Cocina Amoblada</li>
-                        <li data-tab="#bedroom" class="tab-btn"><span class="icon flaticon-furniture"></span>Griferia A1 </li>
-                        <li data-tab="#bathroom" class="tab-btn"><span class="icon flaticon-bathtube-with-shower"></span> Baños Equipados</li>
-                        <li data-tab="#garage" class="tab-btn"><span class="icon flaticon-garage-1"></span> Estacionamiento Paralelo</li>
-                        <li data-tab="#garden" class="tab-btn"><span class="icon flaticon-nature"></span> Pisos Laminados</li>
+                        <li data-tab="#drawing" class="tab-btn"><i class="fas fa-bed fa-4x"></i><br><br> Amplios<br> Dormitorios</li>
+                        <li data-tab="#bedroom" class="tab-btn"><i class="fas fa-shower fa-4x"></i><br><br>Griferia<br> A1<br> </li>
+                        <li data-tab="#bathroom" class="tab-btn"><i class="fas fa-bath fa-4x"></i><br><br>Baños<br> Equipados<br></li>
+                        <li data-tab="#garage" class="tab-btn"><i class="fas fa-car fa-4x"></i><br><br> Parking <br>Paralelo</li>
+                        <li data-tab="#garden" class="tab-btn"><i class="fab fa-delicious fa-4x"></i><br><br>Pisos<br> Laminados</li>
                     </ul>
                     
                     <!--Tabs Container-->
