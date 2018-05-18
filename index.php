@@ -3,16 +3,11 @@
 <head>
 <meta charset="utf-8">
 <title>Edificio GRAU 355 | Vive en el Corazón de miraflores</title>
-<?php include('includes/head-index.php');
-?>
-
+<?php include('includes/head-index.php'); ?>
 <body>
-
-<div class="page-wrapper">
- 	
+    <div class="page-wrapper">
     <!-- Preloader -->
     <div class="preloader"></div>
- 	
     <!-- Main Header-->
     <header class="main-header style-v1">
     	
@@ -24,56 +19,45 @@
             <div class="outer-container clearfix">
                 <!--Logo Box-->
                 <div class="logo-box">
-                    <div class="logo"><a href="index.html"><img src="images/logo.png" alt=""></a></div>
-                </div>
-                
+                    <div class="logo"><a href="index.php"><img src="images/logo.png" alt=""></a></div>
+                </div>        
                 <!--Nav Outer-->
                 <div class="nav-outer clearfix">
                     <!-- Main Menu -->
-                   
                     <!-- Main Menu End-->
-                    
                     <!--Options Box-->
                     <div class="options-box">
                         <ul class="options-nav">
- 
                             <li class="menu-btn hidden-bar-opener"><span class="flaticon-menu-button-of-three-lines"></span></li>
                         </ul>
                     </div>
-                    
                 </div>
                 <!--Nav Outer End-->
-                
             </div>
         </div>
-    
-<?php include ('includes/sticky.php') ;?>
+
+        <?php include ('includes/sticky.php') ;?>
     
     </header>
     <!--End Main Header -->
     
-<?php include ('includes/hidden-bar.php') ;?>
-<?php include ('includes/slider.php') ;?>
-<?php include ('includes/minislider.php') ;?>
-    
-<?php include ('includes/caracteristicas.php'); ?>
-<?php include ('includes/section-video.php'); ?>
-<?php include ('includes/gallery2.php'); ?>
+    <?php include ('includes/hidden-bar.php') ;?>
+    <?php include ('includes/slider.php') ;?>
+    <?php include ('includes/minislider.php') ;?>
+        
+    <?php include ('includes/caracteristicas.php'); ?>
+    <?php include ('includes/section-video.php'); ?>
+    <?php include ('includes/gallery2.php'); ?>
 
-<?php include ('includes/contacto.php'); ?>
-<?php include ('includes/map.php'); ?>
-<?php include ('includes/cta.php'); ?>
-<?php include ('includes/footer.php'); ?>
+    <?php include ('includes/contacto.php'); ?>
+    <?php include ('includes/map.php'); ?>
+    <?php include ('includes/cta.php'); ?>
+    <?php include ('includes/footer.php'); ?>
 
 </div>
 <!--End pagewrapper-->
-
-
-<?php
-include ('includes/scripts.php')
-?>
+<?php include ('includes/scripts.php'); ?>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-59d8334b2f20c262"></script>
-
 </body>
 </html>
