@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 <meta charset="utf-8">
-<title>Octavio Pedraza</title>
+<title>Edificio GRAU 355 | Vive en el Corazón de miraflores</title>
 <?php include('includes/head-index.php');
 ?>
 
