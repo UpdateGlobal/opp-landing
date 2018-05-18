@@ -1,3 +1,10 @@
+<style type="text/css">
+    @media only screen and (max-width: 600px) {
+    .spacefoo {
+       margin-bottom: 50px;
+    }
+}
+</style>
 <!--Main Footer-->
     <footer class="main-footer">
         <div class="container">
@@ -27,7 +34,7 @@
     	<!--Footer Bottom-->
         <div class="footer-bottom">
         	<div class="row clearfix">
-            	<div class="col-md-12" align="center">
+            	<div class="col-md-12 spacefoo" align="center">
                   <div class="copyright">Desarrollado por <a target="_blank" href="https://update.pe">Update Global Marketing</a> | Lima - Perú</div>
                   <br>
                   <a href="https://www.facebook.com/Grupo-Inmobiliario-Octavio-Pedraza-e-Hijos-107291379300268/" target="_blank"><span class="social"> <i class="fab fa-facebook-f"></i></span></a>
