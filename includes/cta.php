@@ -10,7 +10,8 @@
                 </div>
                 <!--Text Column-->
                 <div class="text-column col-md-6 col-sm-12 col-xs-12">
-                	<div class="text">Fusce pulvinar dolor vitae auctor malesuada. Maecenas tristique eros in turpis molestie ornare. Nullam iaculis ligula eget dolor ultricies, vel iaculis tortor porttitor. Ut at nisi mauris.</div>
+                    <br>
+                	<div class="text">Contactanos hoy y comienza a vivir tus sueños, el departamento que soñaste espera por ti.</div>
                 </div>
                 <!--Btn Column-->
                 <div class="btn-column col-md-3 col-sm-12 col-xs-12">

@@ -25,6 +25,9 @@
                         data-textalign="['top','top','top','top']"
                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'>
                     	
+
+                    
+
                         <div class="home-detail">
                             <div class="inner">
                                 <h3 style="text-align: center;">TU DEPARTAMENTO</h3>
@@ -35,7 +38,7 @@
                                     <li>239.95m2<span>hasta</span></li>
                                     <!-- <li>2<span>Porsemeut</span></li> -->
                                 </ul>
-                                <div class="price" style="text-align: center" >desde S/54,210.00</div>
+                                <div class="price" style="text-align: center" >desde S/350.000.00</div>
                                 <div class="btns-box" style="text-align: center;">
                                     <a href="#contacto" class="theme-btn btn-style-one">Contacto</a>
                                 </div>

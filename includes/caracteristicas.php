@@ -4,7 +4,7 @@
         	<!--Sec Title-->
             <div class="sec-title centered">
             	<h2>CARACTERÍSTICAS</h2>
-                <div class="text">Lorem ipsum dolor amet af brunch subway tile authentic, chillwave put a <br> bird on it church-key try-hard ramps heirloom.</div>
+                <div class="text">Diseñado con altos estandares de calidad </div>
             </div>
 			
             <!--Measurement Tabs-->
