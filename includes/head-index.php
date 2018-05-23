@@ -25,7 +25,7 @@
 <meta name="twitter:url" content="" />
 <meta name="twitter:title" content="Vive en el Corazón de miraflores" /> <!-- maximum 140 char -->
 <meta name="twitter:description" content="Tu departamente en Edificio en el corazón de Miraflores" /> <!-- maximum 140 char -->
-<meta name="twitter:image" content="assets/img/twittercardimg/twittercard-280-150.jpg" /> <!-- when you post this page url in twitter , this image will be shown -->
+<meta name="twitter:image" content="images/main-slider/portada-en-bajas-solo-prueba.jpg" /> <!-- when you post this page url in twitter , this image will be shown -->
 <!-- twitter card ends from here -->
 
 <!-- facebook open graph starts from here, if you don't need then delete open graph related  -->
@@ -36,7 +36,7 @@
 <!--meta property="fb:admins" content="" /-->  <!-- use this if you have  -->
 <meta property="og:type" content="website:landing" />
 <meta property="og:description" content="Tu departamente en Edificio en el corazón de Miraflores" />
-<meta property="og:image" content="images/main-slider/image-1.jpg" /> <!-- when you post this page url in facebook , this image will be shown -->
+<meta property="og:image" content="images/main-slider/portada-en-bajas-solo-prueba.jpg" /> <!-- when you post this page url in facebook , this image will be shown -->
 
 <script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
 
