@@ -42,6 +42,7 @@
                                 <div class="btns-box" style="text-align: center;">
                                     <a href="#contacto" class="theme-btn btn-style-one">Contacto</a>
                                 </div>
+                                <h3 style="text-align: center;">El Departamento que soñaste en el lugar de soñaste.</h3>
                             </div>
                         </div>
                     </div>
