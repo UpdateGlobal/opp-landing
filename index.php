@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <title>Edificio GRAU 355 | Vive en el Corazón de Miraflores</title>
 <?php include('includes/head-index.php'); ?>
+>
 <body>
     <div class="page-wrapper">
     <!-- Preloader -->
@@ -28,7 +29,7 @@
                     <!--Options Box-->
                     <div class="options-box">
                         <ul class="options-nav">
-                            <li class="menu-btn hidden-bar-opener"><span class="flaticon-menu-button-of-three-lines"></span></li>
+                            <li class="menu-btn hidden-bar-opener text animated pulse"><span class="flaticon-menu-button-of-three-lines"></span></li>
                         </ul>
                     </div>
                 </div>
