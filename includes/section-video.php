@@ -6,9 +6,9 @@
                 <!--Content Column-->
                 <div class="content-column col-md-6 col-sm-12 col-xs-12">
                 	<div class="inner-column">
-                    	<h2>REVISA NUESTRO VIDEO</h2>
-                        <div class="text">Vive como soñaste, en el lugar que soñaste.</div>
-                        <div class="price"><span>desde / </span>S/.000000 </div>
+                    	<h2>Exelente Inversión para Rentar</h2>
+                        <div class="text">Distrito con el mejor ratio inversión / renta</div>
+                        <div class="price" align="center"><span>desde / </span>S/ 960.000 </div>
                         <!-- <a href="features.html" class="theme-btn btn-style-three">Take A Tour</a> -->
                     </div>
                         <div class="row clearfix">
@@ -33,7 +33,7 @@
                             <figure class="image">
                                 <img src="images/resource/video-img.jpg" alt="">
                             </figure>
-                            <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image overlay-box"><span class="flaticon-play-button-1"></span></a>
+                            <a href="#!" class="lightbox-image overlay-box"><span class="flaticon-play-button-1"></span></a>
                         </div>
                     </div>
                 </div>

@@ -15,7 +15,7 @@
                             <!-- <li><a href="index.html#"><span class="fa fa-linkedin"></span></a></li> -->
                         </ul>
                     	<ul class="list">
-                        	<li><i class="fas fa-phone-volume fa-lg" style="margin-right: 10px;"></i>  (+51) 994604668 - 994604649 - <a href="#!">WEB SITE</li>
+                        	<li><i class="fas fa-phone-volume fa-lg" style="margin-right: 10px;"></i>  (+51) 994604668 - 994604649 - <a href="http://octaviopedraza.com/"><i class="fas fa-globe icon"></i>WEB SITE</li>
                             <li><a href="index.html#"><span class="icon fa fa-envelope"></span>octaviopedraza@octaviopedraza.com</a></li>
 
                         </ul>

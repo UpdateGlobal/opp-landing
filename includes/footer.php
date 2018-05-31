@@ -14,7 +14,7 @@
                         <div class="logo">
                             <a href="index.html"><img src="images/logo.png" alt="" /></a>
                         </div>
-                        <div class="text">Nulla ac nunc eget ante consectetur lobortis a vel orci. Vivamus nibh est condimentum ac metus nec, gravida varius diam.</div>
+                        <div class="text">Distrito con el mejor ratio inversiones / renta</div>
                         </div>
                     <div class="footer-widget gallery-widget">
                         <div class="footer-title">

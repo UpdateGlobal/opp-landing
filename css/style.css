@@ -1851,7 +1851,7 @@ img{
 
 .home-detail .inner .home-list{
 	position:relative;
-	margin-bottom:32px;
+	margin-bottom:0px;
 }
 
 .home-detail .inner .home-list li{
@@ -7267,7 +7267,7 @@ img{
       text-transform: uppercase;
     }
 
-    .animated {
+    .animateds {
       animation-duration: 2.5s;
       animation-fill-mode: both;
       animation-iteration-count: infinite;
@@ -7289,3 +7289,20 @@ img{
       animation-duration: 1s;
       color: blue;
     }
+
+.prices{
+	font-size: 38px;
+	margin-left: 20px 0px;
+	text-align: center;
+	color: black;
+}
+
+.tilt{
+	text-align: center; 
+	font-size: 22px !important; 
+	padding-top: 25px;
+	color: black;
+}
+
+
+

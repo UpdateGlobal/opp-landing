@@ -18,7 +18,7 @@
                         <li data-tab="#drawing" class="tab-btn"><i class="fas fa-bed fa-4x"></i><br><br> Amplios<br> Dormitorios</li>
                         <li data-tab="#bedroom" class="tab-btn"><i class="fas fa-shower fa-4x"></i><br><br>Griferia<br> A1<br> </li>
                         <li data-tab="#bathroom" class="tab-btn"><i class="fas fa-bath fa-4x"></i><br><br>Baños<br> Equipados<br></li>
-                        <li data-tab="#garage" class="tab-btn"><i class="fas fa-car fa-4x"></i><br><br> Parking <br>Paralelo</li>
+                        <li data-tab="#garage" class="tab-btn"><i class="fas fa-car fa-4x"></i><br><br> Parking <br>Lineal</li>
                         <li data-tab="#garden" class="tab-btn"><i class="fab fa-delicious fa-4x"></i><br><br>Pisos<br> Laminados</li>
                     </ul>
                     
