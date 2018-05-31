@@ -18,16 +18,21 @@
 
     	<div class="main-box">
             <div class="outer-container clearfix">
+                  <div class="options-box">
+                        <ul class="options-nav">
+                            <li class="menu-btn hidden-bar-opener text animateds pulse"><span class="flaticon-menu-button-of-three-lines"></span></li>
+                        </ul>
+                    </div>
                 <div class="logo-box" >
                     <div class="logo"><a href="http://octaviopedraza.com/"><img src="images/logo.png" alt=""></a></div>
                 </div>        
                 <div class="nav-outer clearfix">
 
-                    <div class="options-box">
+                  <!--   <div class="options-box">
                         <ul class="options-nav">
                             <li class="menu-btn hidden-bar-opener text animateds pulse"><span class="flaticon-menu-button-of-three-lines"></span></li>
                         </ul>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
