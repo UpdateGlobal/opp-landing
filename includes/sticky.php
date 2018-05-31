@@ -5,7 +5,7 @@
                 <div class="outer-container clearfix">
                     <!--Logo Box-->
                     <div class="logo-box pull-left">
-                        <div class="logo"><a href="index.html"><img src="images/logo-small.png" alt=""></a></div>
+                        <div class="logo"><a href="http://octaviopedraza.com/"><img src="images/logo-small.png" alt=""></a></div>
                     </div>
                     <div class="pull-right">
                         <div class="options-box">

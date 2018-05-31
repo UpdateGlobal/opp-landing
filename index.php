@@ -4,35 +4,31 @@
 <meta charset="utf-8">
 <title>Edificio GRAU 355 | Vive en el Corazón de Miraflores</title>
 <?php include('includes/head-index.php'); ?>
+</head>
 <body>
     <div class="page-wrapper">
     <!-- Preloader -->
-    <div class="preloader"></div>
+<!--     <div class="preloader"></div> -->
     <!-- Main Header-->
     <header class="main-header style-v1">
     	
         <!--Header Top-->
         <?php include ('includes/topbar.php'); ?>
         
-        <!-- Main Box -->
+
     	<div class="main-box">
             <div class="outer-container clearfix">
-                <!--Logo Box-->
-                <div class="logo-box">
-                    <div class="logo"><a href="index.php"><img src="images/logo.png" alt=""></a></div>
+                <div class="logo-box" >
+                    <div class="logo"><a href="http://octaviopedraza.com/"><img src="images/logo.png" alt=""></a></div>
                 </div>        
-                <!--Nav Outer-->
                 <div class="nav-outer clearfix">
-                    <!-- Main Menu -->
-                    <!-- Main Menu End-->
-                    <!--Options Box-->
+
                     <div class="options-box">
                         <ul class="options-nav">
-                            <li class="menu-btn hidden-bar-opener text animated pulse"><span class="flaticon-menu-button-of-three-lines"></span></li>
+                            <li class="menu-btn hidden-bar-opener text animateds pulse"><span class="flaticon-menu-button-of-three-lines"></span></li>
                         </ul>
                     </div>
                 </div>
-                <!--Nav Outer End-->
             </div>
         </div>
 

@@ -1851,7 +1851,7 @@ img{
 
 .home-detail .inner .home-list{
 	position:relative;
-	margin-bottom:32px;
+	margin-bottom:0px;
 }
 
 .home-detail .inner .home-list li{
@@ -3424,7 +3424,7 @@ img{
 
 .about-section-two{
 	position:relative;
-	padding:120px 0px 50px;
+	padding:50px 0px 50px;
 }
 
 .about-section-two .content-column{
@@ -3446,11 +3446,12 @@ img{
 }
 
 .about-section-two .content-column .text{
-	position:relative;
-	color:#666666;
-	font-size:16px;
-	line-height:1.8em;
-	margin-bottom:25px;
+position: relative;
+    color: #7bca34;
+    font-size: 22px;
+    line-height: 1.8em;
+    margin-bottom: 25px;
+    font-weight: 900;
 }
 
 .about-section-two .content-column .price{
@@ -7267,7 +7268,7 @@ img{
       text-transform: uppercase;
     }
 
-    .animated {
+    .animateds {
       animation-duration: 2.5s;
       animation-fill-mode: both;
       animation-iteration-count: infinite;
@@ -7289,3 +7290,20 @@ img{
       animation-duration: 1s;
       color: blue;
     }
+
+.prices{
+	font-size: 38px;
+	margin-left: 20px 0px;
+	text-align: center;
+	color: black;
+}
+
+.tilt{
+	text-align: center; 
+	font-size: 22px !important; 
+	padding-top: 25px;
+	color: black;
+}
+
+
+
