@@ -4,7 +4,7 @@
                     <!--Top Left-->
                     <div class="top-left col-md-4 col-sm-12 col-xs-12">
                     	<ul class="clearfix">
-                        	<li>Visítalo en: Calle Grau 355 (a 2 Cdras. Av. Pardo)</li>
+                        	<li>Visítalo en: Calle Grau 355 - Miraflores</li>
                         </ul>
                     </div>
                     <!--Top Right-->

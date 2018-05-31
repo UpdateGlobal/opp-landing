@@ -37,7 +37,7 @@
                                     <li>239.95m2<span>hasta</span></li>
                                     <!-- <li>2<span>Porsemeut</span></li> -->
                                 </ul>
-                                <div><p class="prices">desde S/ 960.000</p></div>
+                                <div><p class="prices">desde S/ 960,000</p></div>
                                 <div class="btns-box" style="text-align: center;">
                                     <a href="#contacto" class="theme-btn btn-style-one">Contacto</a>
                                 </div>

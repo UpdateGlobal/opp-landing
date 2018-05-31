@@ -3424,7 +3424,7 @@ img{
 
 .about-section-two{
 	position:relative;
-	padding:120px 0px 50px;
+	padding:50px 0px 50px;
 }
 
 .about-section-two .content-column{
@@ -3446,11 +3446,12 @@ img{
 }
 
 .about-section-two .content-column .text{
-	position:relative;
-	color:#666666;
-	font-size:16px;
-	line-height:1.8em;
-	margin-bottom:25px;
+position: relative;
+    color: #7bca34;
+    font-size: 22px;
+    line-height: 1.8em;
+    margin-bottom: 25px;
+    font-weight: 900;
 }
 
 .about-section-two .content-column .price{

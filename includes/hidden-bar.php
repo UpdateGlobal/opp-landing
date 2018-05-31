@@ -20,9 +20,9 @@
             	<h2>Visítanos o Comunícate</h2>
                 <ul class="list-style-six">
                 	<li><i class="fas fa-map-marker-alt icon"></i>Calle Grau 355 (a 2 Cdras. Av. Pardo)</li>
-                    <li><i class="fas fa-phone icon"></i>(+51) 994604668 <br> (+51)994604649 <br>(511)275 12 41</li>
+                    <li><i class="fas fa-phone icon"></i>(+51) 994604668 <br> (+51) 994604649 <br>(511) 2751241</li>
                     <li><i class="far fa-envelope icon"></i> octaviopedraza@octaviopedraza.com</li>
-                    <li><i class="far fa-clock icon"></i> De Lunes a Domingo: 09.00 to 18.00</li>
+                    <li><i class="far fa-clock icon"></i> De Lunes a Domingo: 9:30 0 18:00</li>
                 </ul>
             </div>
             <h5>Vende:</h5><br>
