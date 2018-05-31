@@ -712,7 +712,7 @@ img{
 
 .main-header .header-top{
 	position:relative;
-	padding: 5px 0px;
+	padding: 20px 0px;
 	background-color: #000000;
 }
 
@@ -832,7 +832,7 @@ img{
 	float:left;
 	left:0px;
 	z-index:10;
-	padding: 20px 0px;
+	padding: 5px 0px;
 }
 
 .header-style-three .main-box .logo-box{
@@ -1390,6 +1390,7 @@ img{
 	font-size:42px;
 	margin-left:28px;
 	display:inline-block;
+	margin: 0px 0px 10px;
 }
 
 .main-header .options-box .options-nav li.menu-btn{
