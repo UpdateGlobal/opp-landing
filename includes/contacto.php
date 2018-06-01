@@ -52,7 +52,7 @@
                         <li><span>Dirección</span>Av. Grau 355 Miraflores</li>
                         <li><span>Teléfono</span>(51)2751241</li>
                         <li><span>Email</span>octaviopedraza@yoctaviopedraza.com</li>
-                        <li><span>Atención</span>Lunes - Domingo<br> 09:00 - 18:00</li>
+                        <li><span>Atención</span>Lunes - Domingo<br> 09:30 - 18:00</li>
                     </ul>
                 </div>
             </div>

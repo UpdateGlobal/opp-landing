@@ -8,7 +8,7 @@
                 	<div class="inner-column">
                     	<h2>Excelente para Vivir ò Rentar/Inversión</h2>
                         <div class="text">Distrito con el mejor ratio inversión / renta</div>
-                        <div class="price" align="center"><span>desde / </span>S/ 960.000 </div>
+                        <div class="price" align="center"><span>desde / </span>S/ 960,000 </div>
                         <!-- <a href="features.html" class="theme-btn btn-style-three">Take A Tour</a> -->
                     </div>
                         <div class="row clearfix">

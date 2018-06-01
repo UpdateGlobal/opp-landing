@@ -15,24 +15,31 @@
         <!--Header Top-->
         <?php include ('includes/topbar.php'); ?>
         
-
-    	<div class="main-box">
+        <div class="main-box hidden-lg hidden-md hidden-sm">
             <div class="outer-container clearfix">
-                  <div class="options-box">
-                        <ul class="options-nav">
-                            <li class="menu-btn hidden-bar-opener text animateds pulse"><span class="flaticon-menu-button-of-three-lines"></span></li>
-                        </ul>
-                    </div>
+                <div class="logo-box" >
+                    <div class="logo"><a href="http://octaviopedraza.com/"><img src="images/logo.png" alt=""></a></div>
+                </div>        
+              
+                <ul class="options-nav">
+                    <li class="menu-btn hidden-bar-opener text animateds pulse"><span class="flaticon-menu-button-of-three-lines"></span></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="main-box hidden-xs">
+            <div class="outer-container clearfix">
+  
                 <div class="logo-box" >
                     <div class="logo"><a href="http://octaviopedraza.com/"><img src="images/logo.png" alt=""></a></div>
                 </div>        
                 <div class="nav-outer clearfix">
 
-                  <!--   <div class="options-box">
+               <div class="options-box">
                         <ul class="options-nav">
                             <li class="menu-btn hidden-bar-opener text animateds pulse"><span class="flaticon-menu-button-of-three-lines"></span></li>
                         </ul>
-                    </div> -->
+                    </div> 
                 </div>
             </div>
         </div>
@@ -44,6 +51,30 @@
     
     <?php include ('includes/hidden-bar.php') ;?>
     <?php include ('includes/slider.php') ;?>
+    <!--LUUUISS-->
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12" align="center">
+
+                    <div class="home-detail2 hidden-lg hidden-md hidden-sm">
+                        <div class="inner"><br>
+                            <h3 style="text-align: center;">TU DEPARTAMENTO</h3>
+                                <div class="textohs" style="text-align: center;">EN EL CORAZÓN DE MIRAFLORES</div>
+                                <h4 style="text-align: center;">MIRAFLORES<BR>DEPARTAMENTOS EN VENTA<br>incluyen dos estacionamiento</h4><br>
+                                <h4 style="text-align: center;"> Desde 121.11 M2</h4>
+                                <h4 style="text-align: center;">Hasta 239.95 M2</h4>
+                                <div><p class="prices">desde S/ 960,000</p></div>
+                                <div class="btns-box" style="text-align: center;">
+                                    <a href="#contacto" class="theme-btn btn-style-one">Contacto</a>
+                                </div>
+                                <p class="tilt">Entrega Inmediata</p>
+                        </div>
+                    </div>
+
+                </div>                
+            </div>
+        </div>
+    <!--LUUUISS-->
     <?php include ('includes/minislider.php') ;?>
         
     <?php include ('includes/caracteristicas.php'); ?>
