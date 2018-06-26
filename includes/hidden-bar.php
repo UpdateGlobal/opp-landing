@@ -21,7 +21,7 @@
                 <ul class="list-style-six">
                 	<li><span class="icon fa fa-map-marker"></span>Calle Grau 355 (a 2 Cdras. Av. Pardo)</li>
                     <li><span class="icon fa fa-phone"></span>(+51) 994604668 <br>(+51)994604649 <br>(511)275 12 41</li>
-                    <li><span class="icon fa fa-envelope-o"></span>octaviopedraza@octaviopedraza.com</li>
+                    <li><span class="icon fa fa-envelope-o"></span>Octaviopedraza@octaviopedraza.com</li>
                     <li><span class="icon fa fa-clock-o"></span>De Lunes a Domingo: 09.00 to 18.00</li>
                 </ul>
             </div>

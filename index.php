@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <title>Edificio GRAU 355 | Vive en el Corazón de miraflores</title>
 <?php include('includes/head-index.php'); ?>
+
 <body>
     <div class="page-wrapper">
     <!-- Preloader -->
