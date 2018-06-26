@@ -4,7 +4,7 @@
                     <!--Top Left-->
                     <div class="top-left col-md-4 col-sm-12 col-xs-12">
                     	<ul class="clearfix">
-                        	<li>Visítalo en: Calle Grau 355 (a 2 Cdras. Av. Pardo)</li>
+                        	<li>Visítalo en: Calle Grau 355 - Miraflores</li>
                         </ul>
                     </div>
                     <!--Top Right-->
@@ -15,7 +15,7 @@
                             <!-- <li><a href="index.html#"><span class="fa fa-linkedin"></span></a></li> -->
                         </ul>
                     	<ul class="list">
-                        	<li><i class="fas fa-phone-volume fa-lg" style="margin-right: 10px;"></i>  (+51) 994604668 - 994604649 - (511)275.1241</li>
+                        	<li><i class="fas fa-phone-volume fa-lg" style="margin-right: 10px;"></i>  (+51) 994604668 - 994604649 - <a href="http://octaviopedraza.com/"><i class="fas fa-globe icon"></i>WEB SITE</li>
                             <li><a href="index.html#"><span class="icon fa fa-envelope"></span>octaviopedraza@octaviopedraza.com</a></li>
 
                         </ul>

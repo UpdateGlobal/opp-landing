@@ -149,7 +149,7 @@ p{
 
 ul,li{
 	list-style:none;
-	padding:0px;
+	padding:0px 10px;
 	margin:0px;	
 }
 
@@ -712,7 +712,7 @@ img{
 
 .main-header .header-top{
 	position:relative;
-	padding: 5px 0px;
+	padding: 20px 0px;
 	background-color: #000000;
 }
 
@@ -832,7 +832,7 @@ img{
 	float:left;
 	left:0px;
 	z-index:10;
-	padding: 20px 0px;
+	padding: 5px 0px;
 }
 
 .header-style-three .main-box .logo-box{
@@ -1387,9 +1387,10 @@ img{
 .main-header .options-box .options-nav > li{
 	position:relative;
 	color:#fff;
-	font-size:22px;
+	font-size:42px;
 	margin-left:28px;
 	display:inline-block;
+	margin: 0px 0px 10px;
 }
 
 .main-header .options-box .options-nav li.menu-btn{
@@ -1850,7 +1851,7 @@ img{
 
 .home-detail .inner .home-list{
 	position:relative;
-	margin-bottom:32px;
+	margin-bottom:0px;
 }
 
 .home-detail .inner .home-list li{
@@ -2112,7 +2113,7 @@ img{
 
 .measurement-section{
 	position:relative;
-	padding:110px 0px 120px;
+	padding: 30px 0px 30px;
 }
 
 .measurement-section .measurement-tabs{
@@ -3423,7 +3424,7 @@ img{
 
 .about-section-two{
 	position:relative;
-	padding:120px 0px 50px;
+	padding:50px 0px 50px;
 }
 
 .about-section-two .content-column{
@@ -3445,11 +3446,12 @@ img{
 }
 
 .about-section-two .content-column .text{
-	position:relative;
-	color:#666666;
-	font-size:16px;
-	line-height:1.8em;
-	margin-bottom:25px;
+position: relative;
+    color: #7bca34;
+    font-size: 22px;
+    line-height: 1.8em;
+    margin-bottom: 25px;
+    font-weight: 900;
 }
 
 .about-section-two .content-column .price{
@@ -7253,4 +7255,68 @@ img{
     float: center;
     margin-top: 4px;
     background-color: black;
+}
+
+
+
+	.text {
+      text-align: center;
+      margin-top: 10px;
+      color: #fff;
+      font-size: 1.0em;
+      font-family: sans-serif;
+      text-transform: uppercase;
+    }
+
+    .animateds {
+      animation-duration: 2.5s;
+      animation-fill-mode: both;
+      animation-iteration-count: infinite;
+    }
+
+    @keyframes bounce {
+      0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+      40% {transform: translateY(-30px);}
+      60% {transform: translateY(-15px);}
+    }
+
+    @keyframes pulse {
+      0% {transform: scale(1);}
+      50% {transform: scale(1.1);}
+      100% {transform: scale(1);}
+    }
+    .pulse {
+    animation-name: pulse;
+    animation-duration: 1s;
+    color: #fff;
+    font-size: 28px;
+    margin-bottom: 20px;
+    }
+
+.prices{
+	font-size: 38px;
+	margin-left: 20px 0px;
+	text-align: center;
+	color: black;
+}
+
+.tilt{
+	text-align: center; 
+	font-size: 22px !important; 
+	padding-top: 25px;
+	color: black;
+}
+
+@media only screen and (max-width: 767px){
+.home-detail2{
+    display: block !important;
+}
+}
+.textohs {
+    text-align: center;
+    margin-top: 10px;
+    color: #000;
+    font-size: 1.0em;
+    font-family: sans-serif;
+    text-transform: uppercase;
 }

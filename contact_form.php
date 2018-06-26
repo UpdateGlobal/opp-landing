@@ -1,5 +1,9 @@
 <?php
+<<<<<<< HEAD
 $toEmail = "Octaviopedraza@octaviopedraza.com, christian.haro@update.pe";
+=======
+$toEmail = "octaviopedraza@yoctaviopedraza.com";
+>>>>>>> 209b63363fbca9223aaf9808a082196af1c8a59f
 $subject = "Enviado desde Opp landing";
 $mailHeaders = 'From: '.$_POST["email"]."\r\n".
 'Reply-To: '.$_POST["email"]."\r\n" .
