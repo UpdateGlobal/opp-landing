@@ -27,11 +27,7 @@ Código HTTPS (para pegar en páginas seguras)
 src="https://ads.us.e-planning.net/pct/3/2515e/efa0a8660ab36a86?rnd=$RANDOM" border="0"></noscript>
 
 <?php include('includes/head-index.php'); ?>
-<<<<<<< HEAD
-
-=======
 </head>
->>>>>>> 209b63363fbca9223aaf9808a082196af1c8a59f
 <body>
     <div class="page-wrapper">
     <!-- Preloader -->

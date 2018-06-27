@@ -48,7 +48,7 @@ $("nav ul li a[href^='#']").on('click', function(e) {
 <script src="js/mixitup.js"></script>
 <script src="js/script.js"></script>
 <!--Google Map APi Key-->
-<script src="http://maps.google.com/maps/api/js?key=AIzaSyBKS14AnP3HCIVlUpPKtGp7CbYuMtcXE2o"></script>
+<script src="https://maps.google.com/maps/api/js?key=AIzaSyBKS14AnP3HCIVlUpPKtGp7CbYuMtcXE2o"></script>
 <script src="js/map-script.js"></script>
 <!--End Google Map APi-->
 <!--Color Switcher-->
