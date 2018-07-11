@@ -1,7 +1,5 @@
 <!--Main Slider-->
     <section class="main-slider style-v1">
-    	<br>
-        <br>
         <div class="rev_slider_wrapper fullwidthbanner-container"  id="rev_slider_one_wrapper" data-source="gallery">
             <div class="rev_slider fullwidthabanner" id="rev_slider_one" data-version="5.4.1">
                 <ul>

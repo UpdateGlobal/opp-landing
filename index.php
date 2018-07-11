@@ -11,11 +11,7 @@
 </script>
 <noscript><img width="1" height="1" 
 src="http://ads.us.e-planning.net/pct/3/2515e/efa0a8660ab36a86?rnd=$RANDOM" border="0"></noscript>
----------------------------------------------------------------------------------
------------------------------------------------------------------------------------
 
-
-Código HTTPS (para pegar en páginas seguras) 
 
 <script language="JavaScript" type="text/javascript">
 <!--
