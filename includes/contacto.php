@@ -1,47 +1,34 @@
- <script>
-    function sendContact(){
-        var valid;
-        valid = validateContact();
-        if(valid) {
-            jQuery.ajax({
-                url: "contact_form.php",
-                data:'nombres='+$("#nombres").val()+'&email='+$("#email").val()+'&telefono='+$("#telefono").val()+'&mensaje='+$("#mensaje").val(),
-                type: "POST",
-                success:function(data){
-                    $("#mail-status").html(data);
-                },
-                error:function (){}
-            });
-        }
-    }
 
-    function validateContact() {
-        var valid = true;
-        if(!$("#nombres").val()) {
-            $("#nombres").css('background-color','#f28282');
-            valid = false;
+<script>
+    function Validar(){
+        
+        if(document.contacto.nombres.value==""){
+            alert("Debe ingresar su nombres");
+            document.contacto.nombres.focus();
+            return; 
         }
-        if(!$("#email").val()) {
-            $("#email").css('background-color','#f28282');
-            valid = false;
+        if(document.contacto.email.value==""){
+            alert("Debe ingresar su email");
+            document.contacto.email.focus();
+            return; 
         }
-        if(!$("#email").val().match(/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/)) {
-            $("#email").css('background-color','#f28282');
-            valid = false;
+        if(document.contacto.telefono.value==""){
+            alert("Debe ingresar su telefono");
+            document.contacto.telefono.focus();
+            return; 
         }
-        if(!$("#telefono").val()) {
-            $("#telefono").css('background-color','#f28282');
-            valid = false;
+        if(document.contacto.mensaje.value==""){
+            alert("Debe ingresar su mensaje");
+            document.contacto.mensaje.focus();
+            return; 
         }
-        if(!$("#mensaje").val()) {
-            $("#mensaje").css('background-color','#f28282');
-            valid = false;
-        }
-        return valid;
+        document.contacto.proceso.value="Registrar";
+        document.contacto.action="index.php";
+        document.contacto.submit();
     }
 </script>
 <!--Contact Section-->
-<section id="contacto" class="contact-section" style="background-image:url('images/background/1.jpg')">
+<section id="contacto" class="contact-section" style="background-image:url('/images/background/1.jpg')">
     <div class="auto-container">
         <div class="row clearfix">
             <!--Info Column-->
@@ -63,7 +50,7 @@
                     <p>Un asesor se comunicará contigo a la brevedad</p>
                     <!--Default Form-->
                     <div class="default-form">
-                        <div>
+                        <form name="contacto" id="contacto" method="post" action="">
                             <div class="row clearfix">
                                 <div class="form-group col-md-12 col-sm-12 co-xs-12">
                                     <input type="text" id="nombres" name="nombres" placeholder="Bríndanos tu nombre y apellido" required />
@@ -78,13 +65,13 @@
                                     <textarea id="mensaje" name="mensaje" placeholder="Algún Mensaje"></textarea>
                                 </div>
                                 <div class="form-group col-md-12 col-sm-12 co-xs-12">
-                                    <div id="mail-status"></div>
-                                </div>
-                                <div class="form-group col-md-12 col-sm-12 co-xs-12">
-                                    <button name="submit" onClick="sendContact();" class="theme-btn btn-style-one">Contactarme</button>
+                                    <input type="button" onClick="javascript:Validar();" class="theme-btn btn-style-one" value="Contactarme" />
+                                    <input type="hidden" name="proceso" />
+                                    <?php $fecha = date("Y-m-d"); ?>
+                                    <input type="hidden" name="fecha_ingreso" value="<?php echo $fecha ?>">
                                 </div>
                             </div>
-                        </div>
+                        </form>
                     </div>
                     <!--End Default Form-->
                 </div>

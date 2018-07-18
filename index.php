@@ -1,32 +1,48 @@
+<?php
+if (isset($_REQUEST['proceso'])) {
+    $proceso    = $_POST['proceso'];
+} else {
+    $proceso    = "";
+}
+
+if($proceso=="Registrar"){
+    $nombre         = $_POST['nombres'];
+    $email          = $_POST['email'];
+    $telefono       = $_POST['telefono'];
+    $comentario     = $_POST['mensaje'];
+    $fecha_ingreso  = $_POST['fecha_ingreso'];
+
+    $emailDestino = "octaviopedraza@octaviopedraza.com, updatechristian@gmail.com, raulupdate@gmail.com, updateangie@gmail.com";
+    $encabezado = "Enviado desde Opp landing";
+    $mensaje .= "Información del Contacto\n";
+    $mensaje .= "------------------------\n";
+    $mensaje .= "Nombres        :".$nombre."\n";
+    $mensaje .= "Email          :".$email."\n";
+    $mensaje .= "Telefono       :".$telefono."\n";
+    $mensaje .= "Fecha          :".$fecha_ingreso."\n";
+    $mensaje .= "Mensaje        :".$comentario."\n";
+
+    $mailcabecera = "Desde: ".$email." <". $nombres. "> \n";
+    $mailcabecera .= "Responder a: ".$email."\n\n";
+    mail($emailDestino,$encabezado, $mensaje, $mailcabecera);
+    header("Location:exito.php");
+}
+?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="utf-8">
 <title>Edificio GRAU 355 | Vive en el Corazón de Miraflores</title>
-<script language="JavaScript" type="text/javascript">
-<!--
-    var rnd = new String(Math.random()) + ((new Date()).getTime());
-    document.writeln('<scri' + 'pt language="JavaScript1.1" type="text/javascript" src="http://ads.us.e-planning.net/pct/3/2515e/efa0a8660ab36a86?o=j&rnd=' + rnd + '"></scr' + 'ipt>');
-// -->
-</script>
-<noscript><img width="1" height="1" 
-src="http://ads.us.e-planning.net/pct/3/2515e/efa0a8660ab36a86?rnd=$RANDOM" border="0"></noscript>
----------------------------------------------------------------------------------
------------------------------------------------------------------------------------
-
-
-Código HTTPS (para pegar en páginas seguras) 
-
-<script language="JavaScript" type="text/javascript">
-<!--
-    var rnd = new String(Math.random()) + ((new Date()).getTime());
-    document.writeln('<scri' + 'pt language="JavaScript1.1" type="text/javascript" src="https://ads.us.e-planning.net/pct/3/2515e/efa0a8660ab36a86?o=j&rnd=' + rnd + '"></scr' + 'ipt>');
-// -->
-</script>
-<noscript><img width="1" height="1" 
-src="https://ads.us.e-planning.net/pct/3/2515e/efa0a8660ab36a86?rnd=$RANDOM" border="0"></noscript>
-
 <?php include('includes/head-index.php'); ?>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-74004200-1"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+
+ gtag('config', 'UA-74004200-1');
+</script>
 </head>
 <body>
     <div class="page-wrapper">
