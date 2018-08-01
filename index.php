@@ -82,7 +82,7 @@ src="https://ads.us.e-planning.net/pct/3/2515e/efa0a8660ab36a86?rnd=$RANDOM" bor
                                 <h4 style="text-align: center;">MIRAFLORES<BR>DEPARTAMENTOS EN VENTA<br>incluyen dos estacionamiento</h4><br>
                                 <h4 style="text-align: center;"> Desde 121.11 M2</h4>
                                 <h4 style="text-align: center;">Hasta 239.95 M2</h4>
-                                <div><p class="prices">desde S/ 960,000</p></div>
+                                <div><p class="prices">desde US$ 289,695,00</p></div>
                                 <div class="btns-box" style="text-align: center;">
                                     <a href="#contacto" class="theme-btn btn-style-one">Contacto</a>
                                 </div>
