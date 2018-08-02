@@ -644,7 +644,7 @@
 	}
 	
 	.main-header .main-box .logo-box{
-		float:none;
+		float: left;
 		text-align:center;
 		padding-bottom:10px;
 	}
