@@ -21,8 +21,26 @@ src="http://ads.us.e-planning.net/pct/3/2515e/efa0a8660ab36a86?rnd=$RANDOM" bord
 </script>
 <noscript><img width="1" height="1" 
 src="https://ads.us.e-planning.net/pct/3/2515e/efa0a8660ab36a86?rnd=$RANDOM" border="0"></noscript>
-
 <?php include('includes/head-index.php'); ?>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '261767897755680'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=261767897755680&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
 </head>
 <body>
     <div class="page-wrapper">
@@ -82,7 +100,7 @@ src="https://ads.us.e-planning.net/pct/3/2515e/efa0a8660ab36a86?rnd=$RANDOM" bor
                                 <h4 style="text-align: center;">MIRAFLORES<BR>DEPARTAMENTOS EN VENTA<br>incluyen dos estacionamiento</h4><br>
                                 <h4 style="text-align: center;"> Desde 121.11 M2</h4>
                                 <h4 style="text-align: center;">Hasta 239.95 M2</h4>
-                                <div><p class="prices">desde US$ 289,695,00</p></div>
+                                <div><p class="prices">desde US$ 289,695.00</p></div>
                                 <div class="btns-box" style="text-align: center;">
                                     <a href="#contacto" class="theme-btn btn-style-one">Contacto</a>
                                 </div>

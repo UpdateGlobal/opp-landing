@@ -1,5 +1,5 @@
 <?php
-$toEmail = "Octaviopedraza@octaviopedraza.com, christian.haro@update.pe";
+$toEmail = "octaviopedraza@octaviopedraza.com, updatechristian@gmail.com, ";
 $subject = "Enviado desde Opp landing";
 $mailHeaders = 'From: '.$_POST["email"]."\r\n".
 'Reply-To: '.$_POST["email"]."\r\n" .
