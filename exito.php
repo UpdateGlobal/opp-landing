@@ -65,7 +65,7 @@ src="https://ads.us.e-planning.net/pct/3/2515e/efa0a8660ab36a86?rnd=$RANDOM" bor
     <br>
     <div class="sec-title centered">
         <i class="far fa-thumbs-up" style="font-size: 200px; margin-bottom: 20px"></i>
-        <h2>Mensaje enviado con exito, En la manera <br>de posible nos contactaremos con usted</h2>
+        <h2>Su mensaje fue enviado con éxito. <br> en breve lo contactaremos,  muchas gracias!</h2>
         <a href="index.php" class="theme-btn btn-style-four" style="color: grey;">Volver atras</a>
     </div>
     <br>
