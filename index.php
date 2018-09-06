@@ -1,3 +1,33 @@
+<?php
+if (isset($_REQUEST['proceso'])) {
+    $proceso    = $_POST['proceso'];
+} else {
+    $proceso    = "";
+}
+
+if($proceso=="Registrar"){
+    $nombre         = $_POST['nombres'];
+    $email          = $_POST['email'];
+    $telefono       = $_POST['telefono'];
+    $comentario     = $_POST['mensaje'];
+    $fecha_ingreso  = $_POST['fecha_ingreso'];
+
+    $emailDestino = "octaviopedraza@octaviopedraza.com, updatechristian@gmail.com";
+    $encabezado = "Enviado desde Opp landing";
+    $mensaje = "Información del Contacto\n";
+    $mensaje .= "------------------------\n";
+    $mensaje .= "Nombres        :".$nombre."\n";
+    $mensaje .= "Email          :".$email."\n";
+    $mensaje .= "Telefono       :".$telefono."\n";
+    $mensaje .= "Fecha          :".$fecha_ingreso."\n";
+    $mensaje .= "Mensaje        :".$comentario."\n";
+
+    $mailcabecera = "Desde: ".$email." <".$nombre."> \n";
+    $mailcabecera .= "Responder a: ".$email."\n\n";
+    mail($emailDestino,$encabezado, $mensaje, $mailcabecera);
+    header("Location:exito.php");
+}
+?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -48,7 +78,7 @@ src="https://www.facebook.com/tr?id=261767897755680&ev=PageView
 <!--     <div class="preloader"></div> -->
     <!-- Main Header-->
     <header class="main-header style-v1">
-    	
+        
         <!--Header Top-->
         <?php include ('includes/topbar.php'); ?>
         

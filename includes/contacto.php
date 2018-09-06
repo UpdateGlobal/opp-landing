@@ -1,7 +1,5 @@
-
 <script>
     function Validar(){
-        
         if(document.contacto.nombres.value==""){
             alert("Debe ingresar su nombres");
             document.contacto.nombres.focus();
