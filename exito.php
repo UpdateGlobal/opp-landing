@@ -65,7 +65,7 @@ src="https://ads.us.e-planning.net/pct/3/2515e/efa0a8660ab36a86?rnd=$RANDOM" bor
     <br>
     <div class="sec-title centered">
         <i class="far fa-thumbs-up" style="font-size: 200px; margin-bottom: 20px"></i>
-        <h2>Mensaje enviado con exito, En la manera <br>de posible nos contactaremos con usted</h2>
+        <h2>Su mensaje fue enviado con éxito. <br> en breve lo contactaremos,  muchas gracias!</h2>
         <a href="index.php" class="theme-btn btn-style-four" style="color: grey;">Volver atras</a>
     </div>
     <br>
@@ -81,7 +81,7 @@ src="https://ads.us.e-planning.net/pct/3/2515e/efa0a8660ab36a86?rnd=$RANDOM" bor
     </div>  
 </div>
 
-
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeiEiTtWF8nmvi-k4sPKBFeZukqqRs-G58U7HiwiKiEbyIQJA/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
 <?php include ('includes/footer.php'); ?>
